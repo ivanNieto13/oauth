@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">OAuth</string>
+
+    <string name="login">Login</string>
+    <string name="token">Token</string>
+    <string name="usuario">Usuario</string>
+    <string name="credenciales">Credenciales</string>
+    <string name="clave">Clave</string>
+    <string name="entrar">Entrar</string>
+    <string name="bienvenido">Bienvenido..</string>
+    <string name="cerrar_sesion">Cerrar sesion</string>
+    <string name="inscribirse">Inscribirse</string>
+    <string name="file_preferencia">dgtic.unam.autentifiacion.PREFERENCE_FILE_KEY</string>
+    <string name="facebook_app_id">app_id</string>
+    <string name="fb_login_protocol_scheme">app_id</string>
+    <string name="facebook_client_token">client_token</string>
+</resources>
